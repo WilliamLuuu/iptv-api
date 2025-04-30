@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-30 01:55:41,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-04-30 13:58:02,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -1067,6 +1067,7 @@ CCTV-5+,http://nas.suntao.online:35455/itv/1000000005000265016.m3u8?cdn=ystenliv
 纬来体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 五星体育,https://live.v1.mk/api/bestv.php?id=wxtyhd8m/8000000
 五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
+五星体育,http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 劲爆体育,http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000002000000008
 劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6
 劲爆体育,https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
