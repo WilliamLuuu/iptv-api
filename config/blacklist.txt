@@ -16,5 +16,3 @@ freetv.top
 dsj.motem.top
 8.138.7.223
 /audio/
-satellitepull.cnr.cn
-tvbox6.icu
